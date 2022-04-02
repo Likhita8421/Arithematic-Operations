@@ -30,4 +30,6 @@ dict[$result4]=$result4
 echo "1st output" ${dict[$result1]}
 echo "2nd output" ${dict[$result2]}
 echo "3rd output" ${dict[$result3]}
-echo "4thoutput" ${dict[$result4]}
+echo "4th output" ${dict[$result4]}
+
+echo ${dict[@]}
