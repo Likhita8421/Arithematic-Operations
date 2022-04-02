@@ -11,3 +11,6 @@ read c
 
 result=$(("$a + $b * $c"));
 echo "result : $result"
+
+result2=$(("$a * $b + $c"));
+echo "result2 : $result2"
