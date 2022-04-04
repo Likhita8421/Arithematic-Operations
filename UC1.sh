@@ -33,3 +33,4 @@ echo "3rd output" ${dict[$result3]}
 echo "4th output" ${dict[$result4]}
 
 echo ${dict[@]}
+
